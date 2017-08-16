@@ -1,2 +1,2 @@
-# Library-management-system
+# Post-office-system
 MySQL project 
